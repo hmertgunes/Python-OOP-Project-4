@@ -1,4 +1,4 @@
-# Python-OOP-Project-4
+# Wikipedia-Image-Downloader
 
 This project is basic kivy implementation which I wrote when I was learning kivy and OOP programming.
 
